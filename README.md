@@ -115,6 +115,7 @@ Welcome to my comprehensive collection of **industrial automation**, **SCADA sys
 ### Clone the entire portfolio
 ```bash
 git clone https://github.com/Disvarianza/RosauraGonzalez.git
+```
 
 # Check out the Mini SCADA
 cd scada-web-apps/mini-scada
@@ -125,34 +126,34 @@ python3 -m http.server 8000
 
 📈 Skills & Expertise
 Core Competencies
-✅ SCADA System Design & Implementation
+- ✅ SCADA System Design & Implementation
 
-✅ PLC Programming (all major brands)
+- ✅ PLC Programming (all major brands)
 
-✅ Industrial Communication Protocols
+- ✅ Industrial Communication Protocols
 
-✅ HMI/UI Development for Control Rooms
+- ✅ HMI/UI Development for Control Rooms
 
-✅ Database Design for Historians
+- ✅ Database Design for Historians
 
-✅ MES Integration
+- ✅ MES Integration
 
-✅ Industry 4.0 Solutions
+- ✅ Industry 4.0 Solutions
 
 Tools & Software
-TIA Portal | Step 7
+- TIA Portal | Step 7
 
-Studio 5000 | RSLogix
+- Studio 5000 | RSLogix
 
-Ignition by Inductive Automation
+- Ignition by Inductive Automation
 
-CODESYS
+- CODESYS
 
-Wonderware System Platform
+- Wonderware System Platform
 
-VTScada
+- VTScada
 
-🤝 Collaboration
+## 🤝 Collaboration
 I'm open to:
 
 Industrial automation projects (freelance/consulting)
