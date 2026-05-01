@@ -114,5 +114,4 @@ Welcome to my comprehensive collection of **industrial automation**, **SCADA sys
 
 ### Clone the entire portfolio
 ```bash
-git clone https://github.com/yourusername/automation-portfolio.git
-cd automation-portfolio
+git clone https://github.com/Disvarianza/RosauraGonzalez.git
